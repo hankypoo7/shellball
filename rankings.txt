@@ -1,0 +1,25 @@
+01. Purdue
+02. Houston
+03. Kansas
+04. UConn
+05. Tennessee
+06. Kentucky
+07. North Carolina
+08. Arizona
+09. Oklahoma
+10. Illinois
+11. Marquette
+12. Duke
+13. Memphis
+14. Baylor
+15. Wisconsin
+16. Auburn
+17. Colorado State
+18. BYU
+19. San Diego State
+20. Utah State
+21. Clemson
+22. Creighton
+23. Gonzaga
+24. Florida Atlantic
+25. Texas
