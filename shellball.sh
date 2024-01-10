@@ -1,16 +1,6 @@
-# ANSI color codes
-BLACK='\e[30m'
-RED='\e[31m'
-GREEN='\e[32m'
-YELLOW='\e[33m'
-BLUE='\e[34m'
-MAGENTA='\e[35m'
-CYAN='\e[36m'
-WHITE='\e[37m'
-RESET='\e[0m'
-
+#!/bin/bash
+clear
 display_menu() {
-    clear
     echo
     echo "Select an option:"
     echo "1. NFL Playoffs"
@@ -35,11 +25,13 @@ handle_option() {
             ;;
         4)
             echo "Exiting program. Goodbye!"
+            sleep 1
             clear
             exit 0
             ;;
         *)
             echo "Invalid option. Please select a valid option."
+            sleep 2
             ;;
     esac
 }

@@ -1,14 +1,14 @@
-01. Houston (2)
-02. Kansas (3)
-03. Oklahoma (9)
-04. Baylor (14)
-05. Cincinnati
-06. Texas Tech
-07. Kansas State
-08. BYU (18)
-09. Iowa State
+01. Baylor (14)
+02. Texas Tech
+03. Kansas State
+04. Kansas (3)
+05. Oklahoma (9)
+06. Iowa State
+07. Texas (25)
+08. Houston (2)
+09. Cincinnati
 10. TCU
-11. Texas (25)
-12. UCF
+11. UCF
+12. BYU (18)
 13. Oklahoma State
 14. West Virginia
